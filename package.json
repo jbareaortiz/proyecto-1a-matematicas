@@ -1,6 +1,6 @@
 {
   "name": "proyecto-1a-matematicas-jb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Proyecto de matemáticas sencillo para aprender a publicar una librería en npm.",
   "main": "index.js",
   "scripts": {
